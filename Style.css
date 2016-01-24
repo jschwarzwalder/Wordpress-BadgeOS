@@ -1,0 +1,15 @@
+.one_activity h3 {
+	padding: 10px;
+	color: white;
+	background-color: orange;
+}
+
+.activity_points {
+	float: right;
+}
+
+.content-area, .content-container, .responsive-container, .site-main{
+	margin-left: 0%;
+	margin-right: 0%;
+	
+}
